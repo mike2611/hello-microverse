@@ -1,6 +1,9 @@
 # Hello Microverse
 
 >  In this project, I set up a "Hello World" repository. Applying the best practices that I learned.
+
+![screenshot](images/helloImage.png)
+
  
 ##Built With
 
