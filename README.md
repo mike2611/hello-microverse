@@ -5,14 +5,12 @@
 ![screenshot](images/helloImage.png)
 
  
-##Built With
+## Built With
 
 - HtML, CSS
 - VSCode
 
-##Live Demo
-
-##Authors
+## Authors
 
 👤 **Miguel Angel Puentes**
 - GitHub: [@mike2611](https://github.com/mike2611)
